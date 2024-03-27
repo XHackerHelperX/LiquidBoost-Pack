@@ -6,6 +6,8 @@ Most of the required items to run the mods are already inside the pack. The only
 
 Link: https://fabricmc.net/use/installer/
 
+## Contents
+
 # Liquidbounce
 Liquidbounce in the hacked client the pack is based on and can be found here.
 
