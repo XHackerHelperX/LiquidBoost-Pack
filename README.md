@@ -6,31 +6,31 @@ Most of the required items to run the mods are already inside the pack. The only
 
 Link: https://fabricmc.net/use/installer/
 
-## Contents
+# Contents
 
-# Liquidbounce
+## Liquidbounce
 Liquidbounce in the hacked client the pack is based on and can be found here.
 
 Website: https://liquidbounce.net
 Source Code: https://github.com/CCBlueX/LiquidLauncher
 
-# Lithium and Sodium
+## Lithium and Sodium
 These mods boost game performance.
 
 Lithium: https://modrinth.com/mod/lithium/versions
 Sodium: https://modrinth.com/mod/sodium/version/mc1.20.2-0.5.5
 
-# ItemPhysic Lite
+## ItemPhysic Lite
 A client-side item throwing physics mod that looks cool.
 
 Link: https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite
 
-# Mod Menu
+## Mod Menu
 Adds a nice-looking mod menu to manage your mods.
 
 Link: https://modrinth.com/mod/modmenu?fromcf
 
-# Pre-packaged requirements
+## Pre-packaged requirements
 Fabric API is used for Lithium and Sodium.
 Link: https://www.curseforge.com/minecraft/mc-mods/fabric-api
 
