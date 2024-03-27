@@ -1,6 +1,9 @@
 # LiquidBoost-Pack
 A mod pack made to improve Liquidbounce hacked client 1.20.4 with just added features.
 
+# Download
+To download the back, view the raw file and extract the files straight into your mods folder. Make sure they are out of the folder for them to work.
+
 # Requirements
 Most of the required items to run the mods are already inside the pack. The only think that is needed from you is installing fabric if you haven't already. 
 
